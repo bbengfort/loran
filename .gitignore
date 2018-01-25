@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+fixtures/*.csv
+fixtures/*.json
+fixtures/*.py
